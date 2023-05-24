@@ -4,6 +4,7 @@ import Input from "./Input";
 function Home() {
   return (
     <div>
+    
       <Input />
       
     </div>
