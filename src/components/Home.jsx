@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
-
 import { AiOutlineSearch } from "react-icons/Ai";
 import "./Home.css";
 
 function Home() {
+
+
   const [input, setinput] = useState("");
   const [selectRegion, setSelectRegion] = useState("");
   const [Data, setData] = useState([]);
