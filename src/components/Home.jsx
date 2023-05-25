@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { AiOutlineSearch } from "react-icons/Ai";
+import { AiOutlineSearch } from "react-icons/ai";
 import "./Home.css";
 
 function Home() {
