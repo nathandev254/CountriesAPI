@@ -35,7 +35,7 @@ function Home() {
   }, [urlRegion]);
 
   // console.log(country[0]?.country?.flags.png)
-  {Data.map((data,i)=>console.log(data))}
+  // {Data.map((data,i)=>console.log(data))}
   return (
     <div className="Home">
       <div>
